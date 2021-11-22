@@ -59,9 +59,9 @@ I also added comments to both files to index the code.
 This is a webpage with naviagtion links in the top header.
 
 Here are the screenshots: 
-[header and hero](01-HTML-Git-CSS/02-Challenge/Horiseon/assets/images/horiseon-header-hero.png)
-[content and benefits](01-HTML-Git-CSS/02-Challenge/Horiseon/assets/images/horiseon-content-benefits.png)
-[footer](01-HTML-Git-CSS/02-Challenge/Horiseon/assets/images/horiseon-content-benefits-footer.png)
+! [header and hero](assets/images/horiseon-header-hero.png)
+! [content and benefits](assets/images/horiseon-content-benefits.png)
+! [footer](assets/images/horiseon-content-benefits-footer.png)
 ```
 <a name="URL"></a>
 ## URL
