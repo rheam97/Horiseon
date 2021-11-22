@@ -55,7 +55,7 @@ I also added comments to both files to index the code.
 <a name="usage"></a>
 ## Usage
 
-This is a webpage with naviagtion links in the top header.
+This is a webpage with navigtion links in the top header.
 
 Here are the screenshots: 
 ![header and hero](assets/images/horiseon-header-hero.png)
@@ -66,8 +66,6 @@ Here are the screenshots:
 ## URL
 
 ```
-You are required to submit the following for review:
-
 * The URL of the deployed application: https://rheam97.github.io/Horiseon/
 ```
 - - -
