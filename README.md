@@ -1,11 +1,12 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
 # Table of Contents
-* [Project Description](##projectdescription)
-* [How I refactored](##howirefactored)
+* [Project Description](##project-description)
+* [How I refactored](##how-i-refactored)
 * [Usage](##Usage)
 * [URL](##URL)
 
+<a name= "projectdescription"></a>
 ## Project Description
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 
@@ -39,6 +40,7 @@ THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+<a name="howirefactored"></a>
 ## How I Refactored
 
 ```
@@ -50,24 +52,25 @@ add any <article>s. I also added alt attributes to all of the images and icons.
 I reordered the declarations in the CSS document to match the order in the HTML. 
 I also added comments to both files to index the code.
 ```
-
+<a name="usage"></a>
 ## Usage
 
 ```
 This is a webpage with naviagtion links in the top header.
 Here are the screenshots: 
-[header and hero](./assets/images/horiseon-header-hero.png)
-[content and benefits](./assets/images/horiseon-content-benefits.png)
-[footer](./assets/images/horiseon-content-benefits-footer.png)
+[header and hero](01-HTML-Git-CSS/02-Challenge/Horiseon/assets/images/horiseon-header-hero.png)
+[content and benefits](01-HTML-Git-CSS/02-Challenge/Horiseon/assets/images/horiseon-content-benefits.png)
+[footer](01-HTML-Git-CSS/02-Challenge/Horiseon/assets/images/horiseon-content-benefits-footer.png)
 ```
+<a name="URL"></a>
 ## URL
 
 ```
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed application: https://rheam97.github.io/Horiseon/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
+* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project
 ```
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
