@@ -55,14 +55,13 @@ I also added comments to both files to index the code.
 <a name="usage"></a>
 ## Usage
 
-```
 This is a webpage with naviagtion links in the top header.
 
 Here are the screenshots: 
 ![header and hero](assets/images/horiseon-header-hero.png)
 ![content and benefits](assets/images/horiseon-content-benefits.png)
 ![footer](assets/images/horiseon-content-benefits-footer.png)
-```
+
 <a name="URL"></a>
 ## URL
 
