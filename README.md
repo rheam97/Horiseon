@@ -1,7 +1,7 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
 # Table of Contents
-* [Project Description](#projectdescription)
+* [Project Description](##projectdescription)
 * [How I refactored](##howirefactored)
 * [Usage](##Usage)
 * [URL](##URL)
@@ -42,7 +42,13 @@ THEN I find a concise, descriptive title
 ## How I Refactored
 
 ```
-I refactored this webpage and made it more accessible by starting with changing the title and adding navigation that direct the user to the appropriate ids in the body. I simplified the CSS that affected the header by changing all of the selectors to elements for the sake of simplicity since they only occur once on the page anyways. I then moved down to the hero and content in the HTML where I added semantic elements such as <section>s and <article>s and DRYed up the classes used in the sections in the CSS. I did the same for the benefits section, but I didnt add any <article>s. I also added alt attributes to all of the images and icons. I reordered the declarations in the CSS document to match the order in the HTML. I also added comments to both files to index the code.
+I refactored this webpage and made it more accessible by starting with changing the title and 
+adding navigation that direct the user to the appropriate ids in the body. I simplified the CSS that affected the header by changing all of the selectors to elements for the sake of simplicity since 
+they only occur once on the page anyways. I then moved down to the hero 
+and content in the HTML where I added semantic elements such as <section>s and <article>s and DRYed up the classes used in the sections in the CSS. I did the same for the benefits section, but I didnt 
+add any <article>s. I also added alt attributes to all of the images and icons. 
+I reordered the declarations in the CSS document to match the order in the HTML. 
+I also added comments to both files to index the code.
 ```
 
 ## Usage
@@ -50,9 +56,9 @@ I refactored this webpage and made it more accessible by starting with changing 
 ```
 This is a webpage with naviagtion links in the top header.
 Here are the screenshots: 
-[header and hero](assets/images/horiseon-header-hero.png)
-[content and benefits](assets/images/horiseon-content-benefits.png)
-[footer](assets/images/horiseon-content-benefits-footer.png)
+[header and hero](./assets/images/horiseon-header-hero.png)
+[content and benefits](./assets/images/horiseon-content-benefits.png)
+[footer](./assets/images/horiseon-content-benefits-footer.png)
 ```
 ## URL
 
