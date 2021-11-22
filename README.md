@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# 01 Horiseon: Code Refactor
 
 # Table of Contents
 * [Project Description](#project-description)
