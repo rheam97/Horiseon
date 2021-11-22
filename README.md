@@ -1,10 +1,10 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
 # Table of Contents
-* [Project Description](##project-description)
-* [How I refactored](##how-i-refactored)
-* [Usage](##Usage)
-* [URL](##URL)
+* [Project Description](#project-description)
+* [How I refactored](#how-i-refactored)
+* [Usage](#Usage)
+* [URL](#URL)
 
 <a name= "projectdescription"></a>
 ## Project Description
@@ -57,6 +57,7 @@ I also added comments to both files to index the code.
 
 ```
 This is a webpage with naviagtion links in the top header.
+
 Here are the screenshots: 
 [header and hero](01-HTML-Git-CSS/02-Challenge/Horiseon/assets/images/horiseon-header-hero.png)
 [content and benefits](01-HTML-Git-CSS/02-Challenge/Horiseon/assets/images/horiseon-content-benefits.png)
@@ -69,8 +70,6 @@ Here are the screenshots:
 You are required to submit the following for review:
 
 * The URL of the deployed application: https://rheam97.github.io/Horiseon/
-
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project
 ```
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
